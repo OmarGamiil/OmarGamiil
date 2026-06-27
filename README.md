@@ -81,8 +81,8 @@
 
 <h3>Key Achievements & Experience</h3>
 <ul>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Digilians Professional Training Program</b><br/><i>Built full-stack web applications using MongoDB, Express.js, React, and Node.js.</i></li>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Freelance Web Designer</b><br/><i>Designed, developed, and deployed responsive websites for clients since 2023.</i></li>
+  <li><b><img src="" width="20" alt="new" /> Digilians Professional Training Program</b><br/><i>Built full-stack web applications using MongoDB, Express.js, React, and Node.js.</i></li>
+  <li><b><img src="" width="20" alt="new" /> Freelance Web Designer</b><br/><i>Designed, developed, and deployed responsive websites for clients since 2023.</i></li>
   <li><b>Meta Front-End Developer</b><br/><i>Certificate earned by Meta on Coursera (May 2026).</i></li>
 </ul>
 
