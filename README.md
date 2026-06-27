@@ -85,8 +85,11 @@
   <li>Freelance Web Designer</b><br/><i>Designed, developed, and deployed responsive websites for clients since 2023.<li>
   <b>Meta Front-End Developer</b><br/>
   <i>Certificate earned by Meta on Coursera (May 2026).</i><br/><br/>
-  <a href="meta-certificate.png" target="_blank">
-    <img src="meta-certificate.png" width="350" alt="Meta Front-End Developer Certificate" style="border-radius: 10px;" />
+  <li>
+  <b>Meta Front-End Developer</b><br/>
+  <i>Certificate earned by Meta on Coursera (May 2026).</i><br/><br/>
+  <a href="[رابط_الصورة_هنا](https://github.com/OmarGamiil/meta-certificate.png/blob/main/meta-certificate.png)" target="_blank">
+    <img src="https://github.com/OmarGamiil/meta-certificate.png/blob/main/meta-certificate.png" width="350" alt="Meta Front-End Developer Certificate" style="border-radius: 10px;" />
   </a>
 </li>
 </ul>
