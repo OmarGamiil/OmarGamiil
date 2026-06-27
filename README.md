@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Omar Gamil[cite: 1], Full Stack Developer (MERN Stack)[cite: 1] based in 🇪🇬 <b>Cairo, Egypt</b>[cite: 1]. </p>
+<p>Welcome to my page! </br> I'm Omar Gamil, Full Stack Developer (MERN Stack) based in 🇪🇬 <b>Cairo, Egypt</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
