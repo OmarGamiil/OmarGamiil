@@ -48,18 +48,39 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/OmarGamiil/NewsApp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OmarGamiil/NewsApp?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/OmarGamiil/kemet_backend"><b>Kemet Backend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OmarGamiil/kemet_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OmarGamiil/kemet_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OmarGamiil/kemet_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OmarGamiil/kemet_backend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OmarGamiil/react-assignment"><b>React Assignment</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OmarGamiil/react-assignment?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OmarGamiil/react-assignment?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OmarGamiil/react-assignment?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OmarGamiil/react-assignment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OmarGamiil/GitHub-user"><b>GitHub User</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OmarGamiil/GitHub-user?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OmarGamiil/GitHub-user?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OmarGamiil/GitHub-user?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OmarGamiil/GitHub-user?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
 <h3>Key Achievements & Experience</h3>
 <ul>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Digilians Professional Training Program</b><br/><i>Built full-stack web applications using MongoDB, Express.js, React, and Node.js[cite: 1].</i></li>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Freelance Web Designer</b><br/><i>Designed, developed, and deployed responsive websites for clients since 2023[cite: 1].</i></li>
-  <li><b>Meta Front-End Developer</b><br/><i>Certificate earned by Meta on Coursera (May 2026)[cite: 1].</i></li>
+  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Digilians Professional Training Program</b><br/><i>Built full-stack web applications using MongoDB, Express.js, React, and Node.js.</i></li>
+  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Freelance Web Designer</b><br/><i>Designed, developed, and deployed responsive websites for clients since 2023.</i></li>
+  <li><b>Meta Front-End Developer</b><br/><i>Certificate earned by Meta on Coursera (May 2026).</i></li>
 </ul>
 
 <h3>Welcome to 🇪🇬 Cairo!</h3>
-<p>Passionate about delivering high-quality user experiences and continuously expanding technical expertise[cite: 1].</p>
+<p>Passionate about delivering high-quality user experiences and continuously expanding technical expertise.</p>
 
 <h3>Where to find me</h3>
 <p>
