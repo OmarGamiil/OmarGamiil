@@ -15,6 +15,16 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<h3>📊 GitHub Stats</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarGamiil&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGamiil&layout=compact&theme=radical" alt="Omar's Top Languages" />
+</p>
+
+<br/>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
