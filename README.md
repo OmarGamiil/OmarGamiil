@@ -19,9 +19,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarGamiil&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGamiil&layout=compact&theme=radical" alt="Omar's Top Languages" />
-</p>
 
 <br/>
 
